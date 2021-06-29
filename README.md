@@ -6,7 +6,7 @@ this is the Tic Tac Toe Python (CLI) game for entertainment.
 
 Use the package manager [git]() to install Tic Tac Toe.
 ```bash
-git clone 
+git clone https://github.com/Tejas-Naik/Tic-Tac-Toe.git
 ```
 
 ## Usage
